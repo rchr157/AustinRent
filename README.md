@@ -1,5 +1,6 @@
 # AustinRent
 This project examines the cost of rent in Austin. The purpose of this project is to get a general understanding of what influences the cost of rent for an apartment in Austin and what is the average rent. This is for preperation for moving to Austin.
+![Image of Apartments Clustered](https://github.com/rchr157/AustinRent/blob/master/screenshots/snap3-austin-rent-clustered.png)
 
 # Objective
 The objectives of this project included:
